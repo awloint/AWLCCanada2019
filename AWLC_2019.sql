@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: May 02, 2019 at 11:04 AM
+-- Generation Time: May 06, 2019 at 04:05 PM
 -- Server version: 5.7.25-0ubuntu0.18.04.2
 -- PHP Version: 7.2.15-0ubuntu0.18.04.2
 
@@ -38,7 +38,9 @@ CREATE TABLE `AWLC_2019` (
   `member` enum('yes','no') NOT NULL,
   `referrer` text NOT NULL,
   `firstConference` enum('yes','no') NOT NULL,
-  `created_at` datetime NOT NULL
+  `created_at` datetime NOT NULL,
+  `paid` enum('yes','no') DEFAULT NULL,
+  `paid_at` datetime DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
