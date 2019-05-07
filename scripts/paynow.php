@@ -94,7 +94,7 @@ if ($db->userExists($email, "awlccanada2019")) {
     }
 } else {
     // Insert the user into the database
-    if ($db->insertUser("awlcrwandavirtual", $details)) {
+    if ($db->insertUser("awlccanada2019", $details)) {
         $paystack = new Paystack($paystackKey);
         // throw an exception if there was a problem completing the request,
         // else returns an object created from the json response
