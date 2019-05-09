@@ -18,6 +18,8 @@ $emailBodyDelegate = "<table style='background-color: #d5d5d5;' border='0' width
 <p>Thank you for registering for African Women in Leadership Diaspora Conference Canada 2019.</p>
 <p>African Women in Leadership  Diaspora Conference is a meeting for strategies and capacity building to advance women's leadership.</p>
 <p>AWLC mainly engages women, to increase leadership participation through capacity building. To stay updated on Sessions, Speakers, and everything #AWLCCanada2019 visit <a href='https://awlo.org/awlc/' target='_blank'>https://awlo.org/awlc/</a>. Also check out our social media pages.</p>
+<p>Please note that conference fee only covers full access to the conferences and meals at the conference.</p>
+<p>Conference fees are non-refundable , Delegates who miss the conference after registration are given a waiver on the following year's conference fee.</p>
 <p>Also check out our social media pages.</p>
 <p>See you soon in Canada!</p>
 </td>
